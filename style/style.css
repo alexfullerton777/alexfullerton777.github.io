@@ -1,0 +1,42 @@
+h1 {
+	color: #F51D11;
+	font-size: 70px;
+}
+
+h2 {
+	color: red; 
+	font-style: italic;
+	font-size: 45px;
+}
+
+body {
+		background-image: url("../images/chriswalk2.jpg");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+div #tr1 {
+	border-width: 5px; 
+	border-style: solid;
+	margin: 10px; 
+	padding: 5px;
+	text-align: center;
+}
+
+.col-md-4 {
+	background-color: transparent;
+	color: #F51D11;
+	font-size: 35px;
+}
+
+#bigger {
+	font-size : 20pt;
+}
+
+#quotation {
+	font-size: 20pt;
+	color: #F51D11;
+	text-align: center;
+}
